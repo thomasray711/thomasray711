@@ -9,6 +9,7 @@ My main skills are:
 - SQL Server
 - Azure DevOps
 
+## My Stats
 <p>
 <a href="https://github.com/dvd-simpson">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
