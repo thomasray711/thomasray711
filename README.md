@@ -8,3 +8,10 @@ My main skills are:
 - Blazor, Sitefinity, Umbraco
 - SQL Server
 - Azure DevOps
+
+<p>
+<a href="https://github.com/dvd-simpson">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dvd-simpson&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
