@@ -1,4 +1,4 @@
-## .NET Developer
+## About Me
 
 I am a full-stack developer with 9+ years of experience in software development using C#, ASP.NET, Angular, React, JavaScript, HTML, CSS, SQL Server, Entity Framework, Azure DevOps, etc.
 
@@ -9,7 +9,7 @@ My main skills are:
 - SQL Server
 - Azure DevOps
 
-## My Stats
+## Analytics
 <p>
 <a href="https://github.com/dvd-simpson">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
