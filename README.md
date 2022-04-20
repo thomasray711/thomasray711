@@ -16,3 +16,5 @@ My main skills are:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dvd-simpson&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+[![ Filip's github activity graph](https://activity-graph.herokuapp.com/graph?username=smiledev1230&theme=react-dark)](https://github.com/dvd-simpson)
