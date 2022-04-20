@@ -18,4 +18,4 @@ My main skills are:
 </p>
 
 ## Activity Graph
-[!(https://activity-graph.herokuapp.com/graph?username=dvd-simpson&theme=react-dark)](https://github.com/dvd-simpson)
+[(https://activity-graph.herokuapp.com/graph?username=dvd-simpson&theme=react-dark)](https://github.com/dvd-simpson)
