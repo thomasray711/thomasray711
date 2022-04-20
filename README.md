@@ -17,7 +17,5 @@ My main skills are:
 </a>
 </p>
 
-## Graph
-<p>
-[![ Filip's github activity graph](https://activity-graph.herokuapp.com/graph?username=nerdroc&theme=react-dark)](https://github.com/nerdroc)
-</p>
+## Activity Graph
+[![ David's github activity graph](https://activity-graph.herokuapp.com/graph?username=dvd-simpson&theme=react-dark)](https://github.com/dvd-simpson)
