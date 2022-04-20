@@ -19,5 +19,5 @@ My main skills are:
 
 ## Graph
 <p>
-(https://activity-graph.herokuapp.com/graph?username=smiledev1230&theme=react-dark)]
+(https://activity-graph.herokuapp.com/graph?username=smiledev1230&theme=react-dark)
 </p>
