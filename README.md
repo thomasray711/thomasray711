@@ -16,6 +16,3 @@ My main skills are:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alan-mckinney&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-## Contribution Graph
-[![ David's github contribution graph](https://activity-graph.herokuapp.com/graph?username=alan-mckinney&theme=react-dark)](https://github.com/alan-mckinney)
