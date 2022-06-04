@@ -11,11 +11,11 @@ My main skills are:
 
 ## My Stats
 <p>
-<a href="https://github.com/dvd-simpson">
+<a href="https://github.com/alan-mckinney">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dvd-simpson&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alan-mckinney&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ## Contribution Graph
-[![ David's github contribution graph](https://activity-graph.herokuapp.com/graph?username=dvd-simpson&theme=react-dark)](https://github.com/dvd-simpson)
+[![ David's github contribution graph](https://activity-graph.herokuapp.com/graph?username=alan-mckinney&theme=react-dark)](https://github.com/alan-mckinney)
