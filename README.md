@@ -1,13 +1,20 @@
 ## About Me
 
-I am a full-stack developer with 9+ years of experience in software development using C#, ASP.NET, Angular, React, JavaScript, HTML, CSS, SQL Server, Entity Framework, Azure DevOps, etc.
+I have over 10 years of experience in software development using C#, ASP.NET, .NET Core, Entity Framework, SQL Server, and other Microsoft technologies.
 
-My main skills are:
-- C#, ASP.NET(Core, MVC, Web API), Entity Framework
-- Angular, React, JavaScript, jQuery, HTML/CSS, Bootstrap
-- Blazor, Sitefinity, Umbraco
-- SQL Server
-- Azure DevOps
+I also have experience building scalable Serverless computing layers, large-scale technical design, and migrating sizable legacy applications to modern technology stacks. Below you can see my main skills in detail:
+
+• C#, ASP.NET(Core, MVC, Web API), Entity Framework, Blazor
+• JavaScript, TypeScript, jQuery, Angular, React
+• HTML, CSS, Bootstrap, Material-UI, Tailwind CSS
+• Umbraco, DNN, Sitefinity, Sitecore
+• WinUI, WPF, Windows Forms
+• Xamarin
+• SQL Server, SQLite, MySQL, PostgreSQL, Azure Cosmos DB
+• Azure DevOps
+• Git, Jira, Trello, Asana
+
+I enjoy working in a fast-paced, challenging environment where I can showcase my skillset and problem-solving skills.
 
 ## My Stats
 <p>
