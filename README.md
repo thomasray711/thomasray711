@@ -18,8 +18,8 @@ I enjoy working in a fast-paced, challenging environment where I can showcase my
 
 ## My Stats
 <p>
-<a href="https://github.com/alan-mckinney">
+<a href="https://github.com/justinschenk">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alan-mckinney&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=justinschenk&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
