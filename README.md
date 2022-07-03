@@ -1,9 +1,10 @@
 ## About Me
 
-I have over 10 years of experience in software development using C#, ASP.NET, .NET Core, Entity Framework, SQL Server, and other Microsoft technologies.
+I'm a full-stack developer focused on .NET, with around 9 years of hands-on experience designing and developing major web and desktop applications from scratch. I have strong abilities in all stages of a project life cycle, including database development, front end, and back end functionality, and post-deployment maintenance.
 
-I also have experience building scalable Serverless computing layers, large-scale technical design, and migrating sizable legacy applications to modern technology stacks. Below you can see my main skills in detail:
+I've implemented many applications for both governmental and commercial industries, using modern languages and technologies such as ASP.NET (C#), Entity Framework, SQL Server, Oracle, MongoDB, JavaScript (Angular, React, jQuery), HTML5, CSS3, Bootstrap, and more. I also have experience working with iOS development using Xamarin.
 
+My skillsets:
 • C#, ASP.NET(Core, MVC, Web API), Entity Framework, Blazor
 • JavaScript, TypeScript, jQuery, Angular, React
 • HTML, CSS, Bootstrap, Material-UI, Tailwind CSS
@@ -11,10 +12,8 @@ I also have experience building scalable Serverless computing layers, large-scal
 • WinUI, WPF, Windows Forms
 • Xamarin
 • SQL Server, SQLite, MySQL, PostgreSQL, Azure Cosmos DB
-• Azure DevOps
+• Azure DevOps, AWS, Kubernetes, CI/CD
 • Git, Jira, Trello, Asana
-
-I enjoy working in a fast-paced, challenging environment where I can showcase my skillset and problem-solving skills.
 
 ## My Stats
 <p>
