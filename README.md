@@ -1,21 +1,24 @@
 ## About Me
 
-I have over 10 years of experience in designing and developing web applications or software programs and participated in the entire development process with front-end and back-end developers to ensure that programs look right and interface correctly with hardware. I also have a Bachelor‚Äôs Degree in Computer Science and possess strong coding skills, including C#/.NET, and JavaScript technologies.
- 
-My skill sets:
-- C#, ASP.NET(Core, MVC, Web API), Entity Framework
-- Blazor, WPF, WCF, Xamarin
-- JavaScript, TypeScript, Angular, React
-- HTML5, CSS, Bootstrap, Kendo UI
-- SQL Server, MySQL, T-SQL
-- RESTful API, Microservices
-- Azure DevOps
-- Git, Jira, Trello, Asana
+I'm a full-stack developer focused on .NET, with around 9 years of hands-on experience designing and developing major web and desktop applications from scratch. I have strong abilities in all stages of a project life cycle, including database development, front end, and back end functionality, and post-deployment maintenance.
+
+Specifically, I've implemented many applications for both governmental and commercial industries, using modern languages and technologies such as ASP.NET (C#), Entity Framework, SQL Server, Oracle, MongoDB, JavaScript (Angular, React, jQuery), HTML5, CSS3, Bootstrap, and more. I also have experience working with iOS development using Xamarin.
+
+My skillsets:
+• C#, ASP.NET(Core, MVC, Web API), Entity Framework
+• JavaScript, TypeScript, jQuery, Angular, React
+• HTML, CSS, Bootstrap, Material-UI, Tailwind CSS
+• Umbraco, DNN, Sitefinity, Sitecore
+• WinUI, WPF, Windows Forms
+• Xamarin
+• SQL Server, SQLite, MySQL, PostgreSQL, Azure Cosmos DB
+• Azure DevOps, AWS, Kubernetes, CI/CD
+• Git, Jira, Trello, Asana
 
 ## My Stats
 <p>
-<a href="https://github.com/alanmey">
+<a href="https://github.com/briangez">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alanmey&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=briangez&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
