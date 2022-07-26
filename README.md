@@ -4,13 +4,6 @@ I have over 10 years of experience in software development using C#, ASP.NET(Cor
 
 I also have experience building scalable Serverless computing layers, large-scale technical design, and migrating sizable legacy applications to modern technology stacks. Below you can see my main skills in detail:
 
-• C#, ASP.NET(Core, MVC, Web API), Entity Framework
-• JavaScript, TypeScript, Angular, React
-• HTML, CSS, Bootstrap, Kendo UI, Tailwind CSS
-• MySQL, SQL Server, Azure Cosmos DB
-• Azure DevOps, AWS, GCP
-• Git, Jira, Trello, Asana
-
 I enjoy working in a fast-paced, challenging environment where I can showcase my skillset and problem-solving skills.
 
 ## My Stats
