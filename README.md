@@ -1,10 +1,8 @@
 ## About Me
 
-I have over 10 years of experience in software development using C#, ASP.NET(Core, MVC, Web API), Entity Framework, SQL Server, JavaScript, React, Angular, and more.
+Accomplished software engineer with 10+ years of experience in designing, developing, and troubleshooting different applications using Microsoft technologies (C#, ASP.NET Core, MVC, Web API) and JavaScript (React, Angular 2+). Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
 
-I also have experience building scalable Serverless computing layers, large-scale technical design, and migrating sizable legacy applications to modern technology stacks. Below you can see my main skills in detail:
-
-I enjoy working in a fast-paced, challenging environment where I can showcase my skillset and problem-solving skills.
+Adaptable to highly changing technologies, eager to learn brand new skills and broad experience, help identify customer needs and provide fresh ideas and recommendations to solve problems and enhance capabilities.
 
 ## My Stats
 <p>
