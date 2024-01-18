@@ -1,13 +1,21 @@
 ## About Me
 
-Accomplished software engineer with 10+ years of experience in designing, developing, and troubleshooting different applications using Microsoft stack (C#, ASP.NET, .NET Core, .NET Framework, SQL Server, Entity Framework, LINQ, Blazor, WPF, Xamarin, etc), HTML5, CSS3, and JavaScript technologies (React, Angular).
+Experienced Full Stack .NET Developer with a strong command of front-end and back-end technologies within the Microsoft ecosystem. Proficient in using .NET frameworks, SQL databases, and modern web development tools. Skilled in creating robust, scalable applications that provide seamless user experiences and drive business outcomes.
 
-Adaptable to highly changing technologies, eager to learn brand new skills and broad experience, help identify customer needs and provide fresh ideas and recommendations to solve problems and enhance capabilities. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
+Technical Skills:
+
+- Front-End Development: HTML, CSS, JavaScript, TypeScript, Angular, React.
+- Back-End Development: C#, .NET Framework, .NET Core, ASP.NET, MVC, Web API.
+- Database: SQL Server, Entity Framework, LINQ.
+- Cloud Platforms: Azure, AWS (Amazon Web Services).
+- Version Control: Git, TFS (Team Foundation Server).
+- Unit Testing: NUnit, MSTest, xUnit.
+- UI/UX: Responsive design, user-centered interfaces.
 
 ## My Stats
 <p>
-<a href="https://github.com/bradmacdonald58">
+<a href="https://github.com/robertaylor225">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bradmacdonald58&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robertaylor225&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
