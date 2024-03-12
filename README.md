@@ -5,10 +5,10 @@ Robert is an experienced Full Stack Developer with over 10 years of experience b
 - Back-end Development: C#, .NET Framework, .NET Core, ASP.NET (Core, MVC, Web API)
 - Front-end Development: HTML5, CSS, JavaScript, TypeScript, Angular, React, Blazor, Telerik & Kendo UI
 - Database: SQL Server, MySQL, Entity Framework, LINQ
+- Unit Testing: NUnit, xUnit, MSTest
 - Cloud Platforms: Azure, AWS
 - Version Control: Git, GitHub, GitLab, Bitbucket
 - Project Management: Jira, Trello, Asana, ClickUp
-- Unit Testing: NUnit, xUnit, MSTest
 
 Robert also works great in an agile environment and he's always learning to stay up-to-date in the software world!
 
