@@ -1,4 +1,4 @@
-## About Me
+## Overview
 
 Robert is an experienced Full Stack Developer with over 10 years of experience building web apps and software solutions. He has expertise in C# and ASP.NET (Core, MVC, Web API) for back-end development and he's strong at front-end stuff like HTML5, CSS, JavaScript, React, and Angular as well. Below You can see his technical skills in detail:
 
