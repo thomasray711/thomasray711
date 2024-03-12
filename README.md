@@ -1,4 +1,4 @@
-## About Me
+## About Robert
 
 Robert is an experienced Full Stack Developer with over 10 years of experience building web apps and software solutions. He has expertise in C# and ASP.NET (Core, MVC, Web API) for back-end development and he's strong at front-end stuff like HTML5, CSS, JavaScript, React, and Angular as well. Below You can see his technical skills in detail:
 
@@ -12,7 +12,7 @@ Robert is an experienced Full Stack Developer with over 10 years of experience b
 
 Robert also works great in an agile environment and he's always learning to stay up-to-date in the software world!
 
-## My Stats
+## Robert's Work
 <p>
 <a href="https://github.com/robertaylor225">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
