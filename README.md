@@ -1,16 +1,15 @@
 ## About Me
 
-Thomas has over 10 years of experience in designing, developing, and maintaining enterprise-level software solutions. He's highly proficient in the Microsoft .NET framework and associated technologies, with a strong focus on C#, ASP.NET, and SQL Server. He's well-known for delivering high-quality code, implementing best practices, and staying abreast of the latest industry trends and technologies.
+I have over 10 years of experience working with C#, ASP.NET, JavaScript, and Azure and I'm skilled in both front-end and back-end development. I also work well with different teams and lead projects in fast-paced environments, always aiming to meet goals and deliver results.
 
 ## Key Skills
 
-- Programming Languages: C#, VB.NET, SQL
-- Web Development: ASP.NET, ASP.NET Core, MVC, Web API
-- Frontend Technologies: HTML5, CSS3, JavaScript, Angular, React
+- Languages: C#, SQL, JavaScript, TypeScript, HTML5, CSS3
+- Backend Development: ASP.NET (Core, MVC, Web API)
+- Frontend Development: Angular, React, Kendo UI, Blazor
 - Database Management: SQL Server, Entity Framework, LINQ
 - Cloud Technologies: Azure, AWS
-- DevOps: Git, Team Foundation Server (TFS), Jenkins
-- Software Development Methodologies: Agile, Scrum
+- Version Control: Git, GitHub, GitLab, Bitbucket
 
 ## My Stats
 <p>
